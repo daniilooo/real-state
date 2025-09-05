@@ -1,0 +1,21 @@
+{
+    "name": "danilo-franco/real-state",
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "src/controllers/",
+            "Models\\": "src/models/",
+            "DAO\\": "src/DAO/",
+            "Database\\": "src/database/",
+            "RN\\": "src/RN/",
+            "Utils\\": "src/utils/",
+            "Constantes\\": "src/constantes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Danilo Franco",
+            "email": "engdanilofranco@gmail.com"
+        }
+    ],
+    "require": {}
+}
